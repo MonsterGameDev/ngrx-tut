@@ -1,0 +1,30 @@
+:host {
+  font-size: 1.6rem;
+  height: 95vh;
+
+  nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 1rem;
+
+    a {
+      text-decoration: none;
+      text-transform: uppercase;
+
+      &:hover {
+        color: darkred;
+        font-weight: 600;
+      }
+    }
+  }
+
+  .outlet-area {
+    width: 80%;
+    height: 100%;
+    background-color: #eee;
+    margin: 0 auto;
+    padding: 0.5rem;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  }
+}
