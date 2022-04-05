@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "productName": "Hammer",
+      "price": 34,
+      "available": "true",
+      "productNumber": "xy33-L",
+      "description": "Pellentesque augue nisl, rutrum nec imperdiet vitae, tempor et nisl. Duis at ultricies risus. Quisque sollicitudin risus at sollicitudin hendrerit. Aliquam ac magna dignissim, rhoncus turpis vehicula, sollicitudin metus. Suspendisse euismod lectus eu orci mollis condimentum. Cras vehicula blandit nulla, non condimentum justo bibendum vitae. Etiam pretium commodo consectetur."
+    },
+    {
+      "id": 1,
+      "productName": "Trillebør",
+      "price": 345,
+      "available": "true",
+      "productNumber": "pk36-Px",
+      "description": "Pellentesque augue nisl, rutrum nec imperdiet vitae, tempor et nisl. Duis at ultricies risus. Quisque sollicitudin risus at sollicitudin hendrerit. Aliquam ac magna dignissim, rhoncus turpis vehicula, sollicitudin metus. Suspendisse euismod lectus eu orci mollis condimentum. Cras vehicula blandit nulla, non condimentum justo bibendum vitae. Etiam pretium commodo consectetur."
+    },
+    {
+      "id": 2,
+      "productName": "Overfrakke",
+      "price": 7568,
+      "available": "false",
+      "productNumber": "44Al-0",
+      "description": "Pellentesque augue nisl, rutrum nec imperdiet vitae, tempor et nisl. Duis at ultricies risus. Quisque sollicitudin risus at sollicitudin hendrerit. Aliquam ac magna dignissim, rhoncus turpis vehicula, sollicitudin metus. Suspendisse euismod lectus eu orci mollis condimentum. Cras vehicula blandit nulla, non condimentum justo bibendum vitae. Etiam pretium commodo consectetur."
+    },
+    {
+      "id": 3,
+      "productName": "Gravko",
+      "price": 1074698,
+      "available": "true",
+      "productNumber": "V3313-L",
+      "description": "Pellentesque augue nisl, rutrum nec imperdiet vitae, tempor et nisl. Duis at ultricies risus. Quisque sollicitudin risus at sollicitudin hendrerit. Aliquam ac magna dignissim, rhoncus turpis vehicula, sollicitudin metus. Suspendisse euismod lectus eu orci mollis condimentum. Cras vehicula blandit nulla, non condimentum justo bibendum vitae. Etiam pretium commodo consectetur."
+    },
+    {
+      "id": 4,
+      "productName": "Barnevognb",
+      "price": 33,
+      "available": "true",
+      "productNumber": "ug-1234",
+      "description": "Pellentesque augue nisl, rutrum nec imperdiet vitae, tempor et nisl. Duis at ultricies risus. Quisque sollicitudin risus at sollicitudin hendrerit. Aliquam ac magna dignissim, rhoncus turpis vehicula, sollicitudin metus. Suspendisse euismod lectus eu orci mollis condimentum. Cras vehicula blandit nulla, non condimentum justo bibendum vitae. Etiam pretium commodo consectetur."
+    }
+  ]
+}
